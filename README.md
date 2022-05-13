@@ -11,7 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sha-lik](https://github.com/sha-lik)
 
-- 💬 Ask me about **c++, c, python**
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Shivani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sha-lik&hide_border=true&theme=redical)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sha-lik"></img>
 
 - 📫 How to reach me **shankarmalik21062003@gmail.com**
 
