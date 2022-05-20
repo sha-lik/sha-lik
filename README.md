@@ -1,35 +1,73 @@
-<h1 align="center">Hi 👋, I'm SHANKAR</h1>
-<h3 align="center">A passionate Tech Enthusiast from India</h3>
+<h1 align="center" href="#"><img width="30%" height="auto" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" height="175px"/></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-lik&label=Profile%20views&color=0e75b6&style=flat" alt="sha-lik" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SHANKAR</h1>
+<h3 align="center">I'm a curious Cloud Enthusiast <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
 
-- 🔭 I’m currently learning [DevOps](https://devops.com/)
 
-- 👯 I’m looking to collaborate on [Open Source](https://opensource.org/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sha-lik](https://github.com/sha-lik)
+## 🙋‍♂️ About Me
+<!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 💬 Ask me about **C, C++, Python**
+- 🔭 I’m currently working on **Cloud Computing**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/sha-lik?tab=repositories)**
 
 - 📫 How to reach me **shankarmalik21062003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[linkedin.com/in/shankar-malik-831b0521a](https://www.linkedin.com/in/shankar-malik-831b0521a)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shankar" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+## 🚀 Languages and Tools:
+
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sha-lik&hide_border=true&theme=redical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sha-lik"></img>
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-lik&show_icons=true&locale=en&layout=compact" alt="sha-lik" /></p>
+<p align="left">
+    <a href="https://github.com/sha-lik/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SHANKAR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-lik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sha-lik&show_icons=true&locale=en" alt="sha-lik" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-lik&" alt="sha-lik" /></p>
+## 📊 My Github Stats
 
+  <br/>
+    <a href="https://github.com/sha-lik/github-readme-stats"><img alt="SHANKAR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sha-lik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sha-lik/github-readme-stats"><img alt="SHANKAR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha-lik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/sha-lik/github-readme-activity-graph"><img alt="SHANKAR's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sha-lik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shankar-malik-831b0521a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Shankar_2106"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/shankar_2106/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sha-lik">
+</a>
+<a href="https://github.com/sha-lik?tab=followers"><img src="https://img.shields.io/github/followers/sha-lik?label=Followers&style=social" alt="GitHub Badge"></a>
