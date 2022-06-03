@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shankarmalik21062003@gmail.com**
 
-<!-- - ⚡ Fun fact **I play games** -->
+- ⚡ Fun fact **I am introvert**
 
 <br/>
 
