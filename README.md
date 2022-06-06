@@ -1,6 +1,6 @@
 <h1 align="center" href="#"><img width="30%" height="auto" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" height="175px"/></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SHANKAR</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm SHANKAR</h1>
 <h3 align="center">I'm a curious Cloud Enthusiast <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
 
 
