@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cloud Computing**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Openstack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
